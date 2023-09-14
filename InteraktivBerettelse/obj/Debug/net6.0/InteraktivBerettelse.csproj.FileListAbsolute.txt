@@ -1,0 +1,15 @@
+C:\Programering\InteraktivBerettelse\InteraktivBerettelse\obj\Debug\net6.0\InteraktivBerettelse.csproj.AssemblyReference.cache
+C:\Programering\InteraktivBerettelse\InteraktivBerettelse\obj\Debug\net6.0\InteraktivBerettelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programering\InteraktivBerettelse\InteraktivBerettelse\obj\Debug\net6.0\InteraktivBerettelse.AssemblyInfoInputs.cache
+C:\Programering\InteraktivBerettelse\InteraktivBerettelse\obj\Debug\net6.0\InteraktivBerettelse.AssemblyInfo.cs
+C:\Programering\InteraktivBerettelse\InteraktivBerettelse\obj\Debug\net6.0\InteraktivBerettelse.csproj.CoreCompileInputs.cache
+C:\Programering\InteraktivBerettelse\InteraktivBerettelse\bin\Debug\net6.0\InteraktivBerettelse.exe
+C:\Programering\InteraktivBerettelse\InteraktivBerettelse\bin\Debug\net6.0\InteraktivBerettelse.deps.json
+C:\Programering\InteraktivBerettelse\InteraktivBerettelse\bin\Debug\net6.0\InteraktivBerettelse.runtimeconfig.json
+C:\Programering\InteraktivBerettelse\InteraktivBerettelse\bin\Debug\net6.0\InteraktivBerettelse.dll
+C:\Programering\InteraktivBerettelse\InteraktivBerettelse\bin\Debug\net6.0\InteraktivBerettelse.pdb
+C:\Programering\InteraktivBerettelse\InteraktivBerettelse\obj\Debug\net6.0\InteraktivBerettelse.dll
+C:\Programering\InteraktivBerettelse\InteraktivBerettelse\obj\Debug\net6.0\refint\InteraktivBerettelse.dll
+C:\Programering\InteraktivBerettelse\InteraktivBerettelse\obj\Debug\net6.0\InteraktivBerettelse.pdb
+C:\Programering\InteraktivBerettelse\InteraktivBerettelse\obj\Debug\net6.0\InteraktivBerettelse.genruntimeconfig.cache
+C:\Programering\InteraktivBerettelse\InteraktivBerettelse\obj\Debug\net6.0\ref\InteraktivBerettelse.dll
